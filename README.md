@@ -4,7 +4,7 @@
 
 <p align="center"><strong>CMSP Scripts</strong></p>
 
-<p align="center">Neste repositório, você encontrará Scripts, Hacks e Websites que automatizam e facilitam tarefas das plataformas do Sala do Futuro, incluindo TarefasSP, Redação Paulista, SPeak, Khan Academy, Alura, Expansão Noturno, Matific, Leia Sp.</p>
+<p align="center">Neste repositório, você encontrará Scripts, Hacks e Websites que automatizam e facilitam tarefas das plataformas do Sala do Futuro, incluindo TarefasSP, Redação Paulista, Quizziz, Kahoot, MicroBit, SPeak, Khan Academy, Alura, Expansão Noturno, Matific, Arvoré/Leai sp.</p>
 
 ---
 
