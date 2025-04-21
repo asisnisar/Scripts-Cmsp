@@ -57,17 +57,20 @@
   <table>
     <tr>
       <td width="150px" align="center">
-        <img src="https://i.imgur.com/7LWzOzj.png" alt="DarkMod3" width="100"/>
+        <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks">
+          <img src="https://i.imgur.com/7LWzOzj.png" alt="GitHub Link" width="100"/>
+        </a>
       </td>
       <td align="center">
-        <h1><strong>CMSP HACKS</strong></h1>
+        <h1><strong>CMSP Hacks</strong></h1>
       </td>
     </tr>
   </table>
+</div>
 
 <div align="center" style="background-color: #00ee9e; padding: 15px; border-radius: 10px; margin: 20px auto; max-width: 80%;">
   <p style="color: white; font-family: 'Arial', sans-serif; font-size: 16px; margin: 0;">
-    Este README foi inspirado no <a href="https://github.com/DarkModde/DarkModde" style="color: white; text-decoration: underline;">CMSP Hacks</a>. Participante do servidor <a href="https://discord.gg/platformdestroyer" style="color: white; text-decoration: underline;">Platform Destroyer</a>, assim como alguns scripts que foram retirados do servidor.
+    Este README foi inspirado no <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks" style="color: white; text-decoration: underline;">CMSP Hacks</a>. Participante do servidor <a href="https://discord.gg/platformdestroyer" style="color: white; text-decoration: underline;">Platform Destroyer</a>, assim como alguns scripts que foram retirados do servidor.
   </p>
 </div>
 
