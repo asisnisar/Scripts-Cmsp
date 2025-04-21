@@ -11,8 +11,9 @@
 <p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta <font color="red">clicar no botão da plataforma desejada!</font></strong></p>
 
 --- 
-<p align="center">Aperte na plataforma que você deseja</p>
-
+<p align="center">
+<sub><i>Aperte na plataforma que você deseja</i></sub>
+</div>
 <p align="center">
     <a href="https://doritus.mmrcoss.tech/"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
   &nbsp;
@@ -38,7 +39,9 @@
 </p>
 
 ---
-<p align="center">Ente no servidor do Discord basta clicar no icone
+<p align="center">
+<sub><i>clique abaixo para entrar no servidor do discord ou doar</i></sub>
+</div>
 
 <p align="center">
     <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
