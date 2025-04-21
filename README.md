@@ -1,16 +1,17 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ee9e&text=CMSP%20HACKS&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ee9e&text=CMSP%20Scripts&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
 
 --- 
 
-<p align="center"><strong>CMSP HACKS</strong></p>
+<p align="center"><strong>CMSP Scripts</strong></p>
 
 <p align="center">Neste repositório, você encontrará Scripts, Hacks e Websites que automatizam e facilitam tarefas das plataformas do Sala do Futuro, incluindo TarefasSP, Redação Paulista, SPeak, Khan Academy, Alura, Expansão Noturno, Matific, LeiaMe.</p>
 
-<br><br>
-
-<p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta clicar no botão da plataforma desejada!</strong></p>
-
 ---
+
+<p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta <font color="red">clicar no botão da plataforma desejada!</font></strong></p>
+
+--- 
+<p align="center">Aperte na plataforma que você deseja</p>
 
 <p align="center">
     <a href="https://doritus.mmrcoss.tech/"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
@@ -49,22 +50,16 @@
 ---
 
 <div align="center">
-  <img src="https://i.imgur.com/7LWzOzj.png" alt="DarkMod3" width="200"/>
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=63616c&center=true&width=435&lines=DarkMod3" alt="DarkMod3 typing animation"/>
-  </p>
-</div>
-
-
-<p align="center"><strong>CMSP Hacks</strong></p>
-
-<p align="center">
-  <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarkModde&repo=CMSP-Plataformas-Hacks&theme=github_dark&border_color=30363f&border_radius=0"/>
-  </a>
-</p>
-
----
+  <table>
+    <tr>
+      <td width="150px" align="center">
+        <img src="https://i.imgur.com/7LWzOzj.png" alt="DarkMod3" width="100"/>
+      </td>
+      <td align="center">
+        <h1><strong>CMSP HACKS</strong></h1>
+      </td>
+    </tr>
+  </table>
 
 <div align="center" style="background-color: #00ee9e; padding: 15px; border-radius: 10px; margin: 20px auto; max-width: 80%;">
   <p style="color: white; font-family: 'Arial', sans-serif; font-size: 16px; margin: 0;">
