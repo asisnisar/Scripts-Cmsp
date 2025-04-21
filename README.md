@@ -37,7 +37,8 @@
     <a href="#"><img width="10%" alt="Árvore" title="Árvore" src="https://i.imgur.com/ZeWbyuz.png"/></a>
 </p>
 
-<br>
+---
+<p align="center">Ente no servidor do Discord basta clicar no icone
 
 <p align="center">
     <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
