@@ -16,27 +16,27 @@
 <sub><i>Aperte na plataforma que você deseja</i></sub>
 </div>
 <p align="center">
-    <a href="https://doritus.mmrcoss.tech/"><img width="10%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
+    <a href="https://doritus.mmrcoss.tech/"><img width="15%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
   &nbsp;
-    <a href="https://github.com/marcos10pc/dont-f--with-paste-bookmark/tree/main"><img width="10%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
+    <a href="https://github.com/Snowxyrzk/redacao-maker"><img width="15%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
   &nbsp;
-    <a href="https://github.com/marcos10pc/expansao-noturna-cheeto"><img width="10%" alt="Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
+    <a href="https://github.com/Snowxyrzk/expansao-noturna"><img width="15%" alt="Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
     &nbsp;
-    <a href="https://github.com/Snowxyrzk/Khan-Destroyer"><img width="10%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
+    <a href="https://github.com/Snowxyrzk/Khan-Destroyer"><img width="15%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
   &nbsp;
-    <a href="https://matific.cupiditys.lol/dashboard"><img width="10%" alt="Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
+    <a href="https://matific.cupiditys.lol/dashboard"><img width="15%" alt="Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
   &nbsp;
-    <a href="https://speakify.cupiditys.lol/"><img width="10%" alt="SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
+    <a href="https://speakify.cupiditys.lol/"><img width="15%" alt="SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
   &nbsp;
-    <a href="https://github.com/marcos10pc/Alura-Destroyer"><img width="10%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
+    <a href="https://github.com/marcos10pc/Alura-Destroyer"><img width="15%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
   &nbsp;
-    <a href="#"><img width="10%" alt="Kahoot" title="Kahoot" src="https://i.imgur.com/QadxbNt.png"/></a>
+    <a href="#"><img width="15%" alt="Kahoot" title="Kahoot" src="https://i.imgur.com/QadxbNt.png"/></a>
   &nbsp;
-    <a href="#"><img width="10%" alt="Microbit" title="Microbit" src="https://i.imgur.com/9pkmeTv.png"/></a>
+    <a href="https://github.com/Snowxyrzk/Microbit-maker"><img width="15%" alt="Microbit" title="Microbit" src="https://i.imgur.com/9pkmeTv.png"/></a>
   &nbsp;
-    <a href="#"><img width="10%" alt="Quizziz" title="Quizziz" src="https://i.imgur.com/WwC7WVK.png"/></a>
+    <a href="#"><img width="15%" alt="Quizziz" title="Quizziz" src="https://i.imgur.com/WwC7WVK.png"/></a>
   &nbsp;
-    <a href="#"><img width="10%" alt="Árvore" title="Árvore" src="https://i.imgur.com/ZeWbyuz.png"/></a>
+    <a href="#"><img width="15%" alt="Árvore" title="Árvore" src="https://i.imgur.com/ZeWbyuz.png"/></a>
 </p>
 
 ---
@@ -45,11 +45,11 @@
 </div>
 
 <p align="center">
-    <a href="https://discord.gg/gamesdest"><img width="7%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
+    <a href="https://discord.gg/gamesdest"><img width="15%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
   &nbsp;
-    <a href="https://pixgg.com/im_snow"><img width="7%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
+    <a href="https://pixgg.com/im_snow"><img width="15%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
   &nbsp;
-    <a href="https://discord.gg/platformdestroyer"><img width="7%" alt="PD" title="PD" src="https://i.imgur.com/w2rDpyZ.png"/></a>
+    <a href="https://discord.gg/platformdestroyer"><img width="15%" alt="PD" title="PD" src="https://i.imgur.com/w2rDpyZ.png"/></a>
 </p>
 
 ---
