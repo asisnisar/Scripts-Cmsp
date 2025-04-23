@@ -71,7 +71,7 @@
 
 <div align="center" style="background-color: #00ee9e; padding: 15px; border-radius: 10px; margin: 20px auto; max-width: 80%;">
   <p style="color: white; font-family: 'Arial', sans-serif; font-size: 16px; margin: 0;">
-    Este README foi inspirado no <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks" style="color: white; text-decoration: underline;">CMSP Hacks</a>. Participante do servidor <a href="https://discord.gg/platformdestroyer" style="color: white; text-decoration: underline;">Platform Destroyer</a>, assim como alguns scripts que foram retirados do servidor.
+    Este README foi inspirado no <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks" style="color: white; text-decoration: underline;">CMSP Hacks</a>.
   </p>
 </div>
 
