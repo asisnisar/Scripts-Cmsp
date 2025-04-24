@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ee9e&text=CMSP%20Scripts&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=CMSP%20Scripts&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
 
 --- 
 
@@ -79,4 +79,4 @@
 
 <p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=CMSPScripts&style=for-the-badge&label=Views:&color=gray"/></a></p>
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=00ee9e&section=footer"/></a>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&section=footer"/></a>
